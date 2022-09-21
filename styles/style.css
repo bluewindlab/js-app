@@ -2,3 +2,9 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16px;
 }
+
+.container{
+    max-width: 100%;
+    width: 980px;
+    margin: 0 auto;
+}
